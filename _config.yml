@@ -17,6 +17,8 @@ description: >-
   There are probably words and stuff.
 url:              https://djspinmonkey.github.io
 baseurl:          ""
+exclude:
+  - README.md
 
 author:
   name:           'John Hyland'
