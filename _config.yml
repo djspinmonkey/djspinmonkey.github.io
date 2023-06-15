@@ -1,17 +1,18 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+
 plugins:
   - jekyll-paginate
-gems:
   - jekyll-gist
+  - jemoji
 
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            John's Awesome Blog
-tagline:          It's Awesome'
+tagline:          It's Awesome!
 description: >-
   There are probably words and stuff.
 url:              https://djspinmonkey.github.io
@@ -23,8 +24,5 @@ author:
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+jekyll_compose:
+    auto_open: true

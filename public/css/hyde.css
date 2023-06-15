@@ -248,3 +248,28 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+.sidebar {
+  background-color: rgb(63, 62, 90);
+}
+.content a,
+.related-posts li a:hover {
+  color: rgb(63, 62, 90);
+}
+
+/* Custom Additions */
+img.emoji {
+  display: inline;
+  height: 1.2em;
+  width: 1.2em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.2em;
+}
+
+.post.draft .post-title,
+.post.draft .post-date {
+  background: #f8f5a9;
+}
+post.draft .post-date {
+  color: #d3ce45;
+}
