@@ -2,6 +2,11 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
+# installs gems we're not using, but ensures that versions are in sync with
+# github's build environment
+gem 'github-pages'
+
+gem 'webrick'
 gem 'jekyll'
 gem 'jekyll-paginate'
 gem 'kramdown-parser-gfm'
