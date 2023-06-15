@@ -16,7 +16,7 @@ tagline:          It's Awesome!
 description: >-
   There are probably words and stuff.
 url:              https://djspinmonkey.github.io
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'John Hyland'
