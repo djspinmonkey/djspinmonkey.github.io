@@ -13,9 +13,9 @@ program! It’s organized into sections matching the phases each Ignite engineer
 will go through: hiring, onboarding, team rotations, placement, team
 onboarding, and follow up.
 
-# Before You Start
+## Before You Start
 
-## Take Notes
+### Take Notes
 
 Before you do anything else, I recommend creating a document for recording
 notes, observations, and feedback about how the program is going. It's
@@ -24,14 +24,14 @@ worked _really_ well, or any time you think of ways to improve. That way, when
 you periodically look back to iterate on the program, you'll have a list of
 things to change or adjust going forward.
 
-## The Job Description
+### The Job Description
 
 There's a lot of great advice out there about writing inclusive job
 descriptions, so I won't repeat it here. Make sure that you do some reading on
 that topic, though, and consider using automated tools to review the text. You
 can check out New Relic's ASE job description to see what we came up with.
 
-## Work with Talent Acquisition
+### Work with Talent Acquisition
 
 Make sure you go over the full process with your Talent Acquisition team (or
 Recruiting, or whatever your office calls this group). They'll be the first
@@ -39,7 +39,7 @@ point of contact with your candidates, and will be setting up interview
 schedules and such. They need to be able to explain the process, get the right
 people in the right interviews, and so on.
 
-## Set Up an Interview Panel
+### Set Up an Interview Panel
 
 Speaking of interviews, since there's no specific existing team being hired
 into, there's no automatic group of folks to do the interviewing. For each
@@ -58,7 +58,7 @@ of interview session, though. You can start doing this around the time the
 position becomes available for applications -- it'll take a little time for
 candidates to get to the interview phase.
 
-# Hiring
+## Hiring
 
 Hiring for an early career role is significantly different than hiring for a
 more senior position. For mid- to lead- level roles, the challenge is finding
@@ -148,12 +148,12 @@ we may find we need to add additional steps early in the process or become much
 more strict in our evaluations at some point, in order to maintain a manageable
 volume of candidates in the later (more time intensive) phases of the process.
 
-# Application
+### Application
 
 The initial application consists of a resume, an optional cover letter, and a
 short answer question.
 
-## Resume
+#### Resume
 
 In the Ignite program, it's usually the candidate's first engineering job, and
 we're specifically looking for candidates from diverse backgrounds. As such, we
@@ -165,7 +165,7 @@ teaching experience is a good sign, anything with math or especially statistics
 is very good, and any programming-adjacent work such as design or product
 management is also a plus. None of these things are necessary, though.
 
-## Cover Letter
+#### Cover Letter
 
 Having a cover letter is not required (at all), but we'll read it if it's
 there. Since cover letters take time for the candidate to write, and time for
@@ -178,7 +178,7 @@ out. That said, candidates should be aware that opinions about cover letters
 vary widely -- for some roles, hiring managers strongly prefer they be
 included.
 
-## Short Answer Question
+#### Short Answer Question
 
 Answers should be three paragraphs at most -- a concise style is one of the
 specific things we're looking for. We only ask one short answer question in our
@@ -214,7 +214,7 @@ reasonable options that the candidate had to choose between. Experienced
 engineers are almost always thinking about trade-offs like this as they design
 and build their systems.
 
-## Hiring Manager Screen
+### Hiring Manager Screen
 
 The Hiring Manager Screen consists of a light technical exercise and an
 opportunity for the candidate to ask any questions they may have about the
@@ -251,7 +251,7 @@ a kindness to put somebody in a position where they will not be successful, so
 I recommend being clear about what is required to advance and firm in those
 requirements.
 
-## Take-Home Exercise
+### Take-Home Exercise
 
 We specifically want a diverse set of backgrounds, and unlike most programming
 jobs, there is no specific type or style of code that we will be focusing on in
@@ -274,9 +274,9 @@ and then doing all the evaluations. You'll need a way to anonymize and
 deanonymize the submissions in that case - we use a small commandline script
 for this purpose.
 
-## Final Interview
+### Final Interview
 
-### Interviewer Preparation and Logistics
+#### Interviewer Preparation and Logistics
 
 We have a training/kickoff meeting with all the interviewers before anybody
 starts interviewing. In brief, these are the areas we cover:
@@ -309,13 +309,13 @@ included, etc. The feedback form is then sent back to the candidate, and we let
 them know if they will be considered in our final selection. If they are, we
 let them know the expected timeline for the final decision.
 
-### Interview Sessions
+#### Interview Sessions
 
 We want to respect the candidate's time, as well as our interviewers', so the
 final interview stage consists of three 45 minute sessions with a 15 minute
 break between each one. Each of these sessions is described below.
 
-#### Technical Session
+##### Technical Session
 
 Similarly to the code challenge, we want to mitigate the stress of interviewing
 as much as possible, and give our candidates as much opportunity to shine as we
@@ -325,7 +325,7 @@ with. We also let them choose from several different features to implement, and
 allow them to look up whatever they like online (aside from the literal exact
 solution to the exercise).
 
-#### Behavioral Session
+##### Behavioral Session
 
 This is a behavioral interview with "Tell me about a time when…" style
 questions. We worked with our ERGs to develop the specific questions, but
@@ -344,7 +344,7 @@ in the heat of the moment. We want to know their best example of a given
 behavior, described as well as they can describe it, and publishing the
 questions ahead of time helps us achieve that.
 
-#### Verbal Communication Session
+##### Verbal Communication Session
 
 We provide the following prompt to the candidate ahead of time, so that they
 have a chance to think about what topic they'd like to explain and practice
@@ -371,7 +371,7 @@ higher degree of subjectivity than most. Having one person conduct all the
 interviews helps to create a more consistent set of evaluations across
 candidates.
 
-## Final Selection
+### Final Selection
 
 To make the final selection, the hiring manager schedules a meeting with the
 recruiters, any interviewers who are interested in attending, and any other
@@ -405,7 +405,7 @@ throughout the company that we think they may be a good fit for, we'll reach
 out to those managers to let them know that that candidate did well in the
 Ignite interviews.
 
-# Onboarding Phase
+## Onboarding Phase
 
 Once a new group of Ignite engineers start, there is a two week onboarding
 period for them to learn the basics of interacting with New Relic's systems and
@@ -413,7 +413,7 @@ teams. We cover things like Git, JIRA, standups, code reviews, retros, and so
 on. This is also when the new cohort goes through our engineering-wide
 onboarding process.
 
-## Kickoff
+### Kickoff
 
 During the first or second day (depending on the various paperwork and other
 administrative tasks when folks join the company), we have a kickoff meeting
@@ -422,7 +422,7 @@ out the timeline and expectations for the Ignite program, and to start building
 a rapport with the new engineers and establishing an environment of
 psychological safety.
 
-## Working Agreements
+### Working Agreements
 
 After the kickoff, we'll have a session with all current Ignite engineers (both
 the new group and anybody still in the program from the previous group) to
@@ -434,7 +434,7 @@ specific areas that need to be agreed on, folks are also encouraged to bring
 their own suggestions to cover anything that is important to create a
 productive and welcoming work environment for them.
 
-## Sample Project
+### Sample Project
 
 The rest of the onboarding time is spent working on a sample project. We'll
 build a few different versions of the project that each interact with New
@@ -448,7 +448,7 @@ to scope pull requests, how to do effective code review, trying out solo,
 pairing, and party programming, and just generally to see what it's like to
 collaborate on a team day-to-day.
 
-## Assigning Generalist Mentors
+### Assigning Generalist Mentors
 
 During this period, we also find mentors for all of our Ignite engineers. Since
 part of the purpose of Ignite is to try a lot of different kinds of software
@@ -490,7 +490,7 @@ relationship. If, after meeting, the Ignite engineer and potential mentor
 decide not to move forward with the mentorship for any reason, that's totally
 fine, and we're happy to find an alternate mentor.
 
-# Team Rotation Phase
+## Team Rotation Phase
 
 After onboarding, we enter into the team rotation phase, which will compose the
 bulk of an engineer's time in the Ignite program. During this phase, the cohort
@@ -499,7 +499,7 @@ makes social connections with engineers and managers throughout the
 organization, and has specialized classes and learning opportunities for
 various technologies and systems in common use.
 
-## Rotations
+### Rotations
 
 During a rotation, the full Ignite cohort works with another team to accomplish
 some goal. We've found that two weeks is about the right amount of time for a
@@ -572,7 +572,7 @@ following criteria to choose teams to work with.
     take on an early career engineer and will likely have an opening for an
     Ignite engineer if it ends up being a good match.
 
-## Social Events
+### Social Events
 
 Since we can't do full rotations with every team (there are over 70 as of this
 writing!), we also have informal social meetings with various teams. Generally,
@@ -609,7 +609,7 @@ you have an on-call rotation? How does that usually go?", etc, but once
 conversations are starting up and going on their own, there's no need to force
 any particular topic.
 
-## Presentations
+### Presentations
 
 Your company doubtless uses a variety of technologies, and has some local
 experts on each of them. In addition, there are a lot of core skills that are
@@ -630,12 +630,12 @@ available to the Ignite engineers, and ask them for additional topics they'd
 like classes on. Some of our best classes have been a result of requests from
 folks in the program!
 
-## Administrative Tasks and Scheduling
+### Administrative Tasks and Scheduling
 
 Here's the schedule we use to keep everything on track for an Ignite cohort in
 the Team Rotation Phase.
 
-### Every Day
+#### Every Day
 
   * Have a joint standup with the hosting team.
   * Make sure all Ignite engineers are clear on what they should be doing that
@@ -646,13 +646,13 @@ the Team Rotation Phase.
     called out by members of past Ignite cohorts as one of the most valuable
     aspects of the program.
 
-### Every Week
+#### Every Week
 
   * Set up 1:1s and retro for the week.
   * Verify there's a class for the next two weeks (and arrange one if needed).
   * Verify there's a social event for the following week (and arrange one if needed).
 
-### Every Rotation
+#### Every Rotation
 
   * First thing, have a joint kickoff meeting with the Ignite engineers and
     hosting team.  In this meeting, have the hosting team explain the systems
@@ -666,7 +666,7 @@ the Team Rotation Phase.
     and make sure the cohort is invited to everything they should be invited to
     for that rotation.
 
-# Placement
+## Placement
 
 This process is probably going to be very specific to each company, and may be
 somewhat dependent on how headcount is handled by Finance or other departments,
@@ -689,7 +689,7 @@ you're able to arrange for placements, the higher the likelihood of finding a
 great team fit, which will lead to stronger, more motivated teams in the long
 run.
 
-## Assigning Technical Specialist Mentors
+### Assigning Technical Specialist Mentors
 
 Once a specific team has been chosen for a given Ignite engineer, find a
 technical specialist mentor for them. A technical specialist mentor is somebody
@@ -703,14 +703,14 @@ experience. Then, go through the same steps for assigning a generalist mentor
 (check with the potential mentor's manager, then the potential mentor themself,
 then make the introduction).
 
-# Team Onboarding
+## Team Onboarding
 
 The final phase of the Ignite program for an engineer is the Team Onboarding
 phase. During this phase, ASEs will narrow in on the specific skills they'll
 need to hit the ground running on their new team, and start learning the
 processes and systems of the team in more detail.
 
-## Team Onboarding Kickoff Meeting
+### Team Onboarding Kickoff Meeting
 
 Schedule a kickoff meeting with the ASE, the manager of their target team,
 their technical specialist mentor, and optionally a tech lead or senior
@@ -741,7 +741,7 @@ between study time and working with the team has been effective, and pairing is
 a particularly valuable exercise during this period (as opposed to just taking
 tickets and working on them solo).
 
-## Other Team Onboarding Considerations
+### Other Team Onboarding Considerations
 
 Try to arrange for each ASE to go ahead and start sitting with their target
 teams (if they're in person), and attending all of their meetings and such.
@@ -759,12 +759,12 @@ It's also helpful to make a list of important stakeholders for the new engineer
 to meet with - for example, folks like the team's PM, architect, QA, support
 team, internal customers, and so on.
 
-# After Placement
+## After Placement
 
 Once we get to this point, we have successfully placed the Associate Software
 Engineer on their new long term team! But the work is not done yet.
 
-## Handoff
+### Handoff
 
 There are a few things to do as the engineer transfers to their new team. At
 New Relic, this is always accompanied by a promotion to Software Engineer 1 in
@@ -772,7 +772,7 @@ recognition of their new skills and knowledge of the company. We also supply a
 packet of resources to the manager to help them with the specific needs of
 managing an early career engineer.
 
-## Check-ins
+### Check-ins
 
 After the cohort has been placed, it's still important to check in with them
 and see how things are going. This is an opportunity for informal feedback on
@@ -782,7 +782,7 @@ if their existing ones didn't work out, or finding opportunities for additional
 training if there are particular areas to sharpen their skills. We like to
 check in at two weeks, a month, and two months.
 
-## Followup Surveys
+### Followup Surveys
 
 In addition to the informal feedback from the check-ins, we collect more
 formalized feedback in the form of surveys sent to the participants of the
@@ -795,7 +795,7 @@ would have been helpful, or things they wish they'd known before joining the
 team. We then take this feedback and use it to iterate on the program design
 for the next cohort.
 
-## Reviews
+### Reviews
 
 Depending on when the engineer transfers to their new team in the review cycle,
 there are a few different ways to handle this. If they join very near the
@@ -805,7 +805,7 @@ full review cycle and conduct the next one. If they joined more toward the
 middle of the cycle, it may make more sense to conduct a joint review with both
 managers.
 
-# Reflect and Iterate
+## Reflect and Iterate
 
 From time to time, make sure you open that document you started waaaay back
 before the beginning of the cohort -- the very first thing this guide
@@ -824,7 +824,7 @@ you aren't going to get everything perfect, ever. That's ok. In fact, doing
 better the next time is part of the fun, and refining a successful program to
 be even more successful can be very satisfying.
 
-# Conclusion
+## Conclusion
 
 Of all the things I've worked on over the course of my career, both as an
 engineer and as a manager, Ignite has easily been the most rewarding. But, it's
