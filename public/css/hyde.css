@@ -74,13 +74,28 @@ html {
 .sidebar a {
   color: #fff;
 }
-
+@font-face {
+  font-family: "MixtaSharpBold";
+  src: url('/public/fonts/MixtaSharpBold/font.woff2') format('woff2'),
+       url('/public/fonts/MixtaSharpBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "MixtaSharpBlack";
+  src: url('/public/fonts/MixtaSharpBlack/font.woff2') format('woff2'),
+       url('/public/fonts/MixtaSharpBlack/font.woff') format('woff');
+}
 /* About section */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "MixtaSharpBlack", serif;
   font-size: 3.25rem;
+  line-height: 3rem;
+}
+
+h1.post-title,
+h1.page-title {
+  font-family: "MixtaSharpBold", serif;
 }
 
 /* Sidebar nav */
@@ -252,9 +267,24 @@ a.sidebar-nav-item:focus {
 .sidebar {
   background-color: rgb(63, 62, 90);
 }
-.content a,
-.related-posts li a:hover {
+.content .post-title a,
+.content h1, .content h2, .content h3,
+.content h4, .content h5, .content h6,
+.content dt, .content th {
   color: rgb(63, 62, 90);
+}
+
+.sidebar-footer,
+.post-date,
+.post-read-more,
+.pagination-item {
+  /* color: rgb(145,151,226); */
+  font-size: 0.8rem;
+}
+
+.post-read-more {
+  display: block;
+  text-align: right;
 }
 
 /* Custom Additions */
@@ -269,7 +299,10 @@ img.emoji {
 .post.draft .post-title,
 .post.draft .post-date {
   background: #f8f5a9;
+  border-left: 5px solid #d3ce45;
+  padding-left: 5px;
+  margin-left: -10px;
 }
-post.draft .post-date {
+.post.draft .post-date {
   color: #d3ce45;
 }

@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <h1>
         <a href="{% link index.html %}">
-          {{ site.title }}
+          {{ site.title | smartify }}
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
@@ -27,6 +27,6 @@
       {% endfor %}
     </nav>
 
-    <p>:hammer_and_wrench: {{ site.time | date: '%Y' }}</p>
+    <p class="sidebar-footer">:hammer_and_wrench: {{ site.time | date: '%Y' }}</p>
   </div>
 </div>

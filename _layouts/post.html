@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="post{% if page.draft %} draft{% endif %}">
-  <h1 class="post-title">{{ page.title }}</h1>
+  <h1 class="post-title">{{ page.title | smartify }}</h1>
   <span class="post-date">
     {% if page.draft %}DRAFT{% else %}{{ page.date | date_to_string }}{% endif %}
   </span>

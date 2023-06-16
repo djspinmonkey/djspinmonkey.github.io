@@ -20,6 +20,10 @@ baseurl:          ""
 exclude:
   - README.md
 
+# defaults to first paragraph (\n\n)
+# uncomment to switch to explicit separator
+# excerpt_separator: "<!-- more -->"
+
 author:
   name:           'John Hyland'
   url:            https://djspinmonkey.github.io
