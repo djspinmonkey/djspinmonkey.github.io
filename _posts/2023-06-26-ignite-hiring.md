@@ -17,7 +17,7 @@ placement and onboarding, and follow up. Since this is the first part, we're
 starting at the beginning with hiring.
 
 Hiring for an early career role is significantly different than hiring for a
-more senior position. For mid- to lead- level roles, the challenge is finding
+more senior position. For mid- to lead-level roles, the challenge is finding
 qualified candidates. You can do a lot of pre-sorting based on resumes to see
 if they have the needed experience, and you'll likely end up with only a
 handful of folks (at most) that you'd consider bringing in for a final
@@ -40,7 +40,7 @@ applicants goes up -- as of this writing, it's about 100 per day.
 Before you do anything else, I recommend creating a document for recording
 notes, observations, and feedback about how the program is going. It's
 particularly valuable to track anything that didn't work well, anything that
-worked _really_ well, or any time you think of ways to improve. That way, when
+worked _really_ well, or any ideas you have for ways to improve. That way, when
 you periodically look back to iterate on the program, you'll have a list of
 things to change or adjust going forward.
 
@@ -80,8 +80,8 @@ candidates to get to the interview phase.
 
 ## The Hiring Process
 
-When designing the Ignite hiring process, the specific traits we want to select
-for are:
+When creating the Ignite hiring process, the specific traits we designed it to
+select for are:
 
   * **Basic coding skills.** Candidates should be able to produce working,
     tested code from scratch at at least a basic level.
@@ -91,7 +91,8 @@ for are:
   * **Empathy and teamwork.** Research shows that the most productive teams are
     those with psychological safety and mutual respect.
 
-In addition, there were a number of principles we strove to incorporate into the process:
+In addition, there were a number of principles we strove to incorporate into the
+process:
 
   * Bring in as diverse a candidate pool as possible.
   * As much as feasible, create objective standards and minimize bias.
@@ -102,8 +103,8 @@ In addition, there were a number of principles we strove to incorporate into the
 
 Some of the measures we took toward those goals include:
   * All active recruiting for the Ignite program occurs with organizations
-    centered around underrepresented groups. (Everybody is welcome to apply,
-    but this is where we focus our active recruiting efforts.)
+    centered around underrepresented groups. Everybody is welcome to apply,
+    but this is where we focus our active recruiting efforts.
   * People of all backgrounds are encouraged to apply, including college
     graduates, bootcamp graduates, or folks who are self-taught or come from
     nontraditional backgrounds. Ideally, we'd love to see a mix of all of these
@@ -129,18 +130,17 @@ Some of the measures we took toward those goals include:
   * Before conducting any interviews, all interviewers receive training on how
     to conduct the interview and what sort of feedback to leave in the form.
     For example, if a candidate did not do well in a particular area, the
-    interviewer should suggest ways that area could have been improved in the
-    feedback form, rather than just marking it as poorly done. They also
-    receive written guidebooks covering the same material.
+    interviewer should suggest ways that area could have been improved, rather
+    than just marking it as poorly done. They also receive written guidebooks
+    covering the same material.
 
 Ignite's overall hiring process is structured as a funnel, like many others. At
 each step throughout the funnel, we're looking to filter out about 50-70% of
-remaining candidates, in order to arrive at a manageable number of finalists by
-the end. We want to move segments that take a lot of time to evaluate or for
-candidates to complete later in the process, and front load the less time
-intensive exercises, both to keep our workload reasonable and to respect
-candidates' time. As such, we've settled on the following steps for the Ignite
-interview process.
+remaining candidates, in order to arrive at a manageable number of finalists. We
+want to move segments that take a lot of time to evaluate or for candidates to
+complete later in the process, and front load the less time intensive exercises,
+both to keep our workload reasonable and to respect candidates' time. As such,
+we've settled on the following steps for the Ignite interview process.
 
   * Application
   * Hiring Manager Screen
@@ -262,7 +262,7 @@ jobs, there is no specific type or style of code that we will be focusing on in
 this role. So, in the Ignite program we offer two different choices of
 exercise, so that candidates can choose the one that will best showcase their
 specific experience and strengths. One of the exercises focuses on React and
-CSS, and the other is a small command line tool.
+CSS, and the other is a small command-line tool.
 
 All exercises are evaluated based on a strict rubric with very specific
 criteria, and the broad outline of those criteria are described in the text of
@@ -275,7 +275,7 @@ anonymize each entry, and have somebody else do the evaluation. That way, you
 can evaluate each submission as it comes in. It's also possible for one person
 to handle everything themselves by collecting batches of 3-5, anonymizing them,
 and then doing all the evaluations. You'll need a way to anonymize and
-deanonymize the submissions in that case - we use a small commandline script
+deanonymize the submissions in that case - we use a small command-line script
 for this purpose.
 
 ### Final Interview
@@ -288,7 +288,8 @@ starts interviewing. In brief, these are the areas we cover:
   * Our overall hiring philosophy, as described in the "Hiring" section above.
   * Legal restrictions around topics that may not be discussed or asked about.
   * Walk through the interview process and the feedback forms.
-  * Remind everybody to be kind and thoughtful -- interviewing is very stressful, and this may be some candidates' first job interviews.
+  * Remind everybody to be kind and thoughtful -- interviewing is very
+    stressful, and this may be some candidates' first job interviews.
 
 In addition to the initial training, we also send out an email to each
 interviewer the day before they interview, which will contain links to the
@@ -296,7 +297,7 @@ Interviewer Guidebook and the feedback form for that specific candidate. The
 feedback form is a Google Docs spreadsheet with one page for each interviewer,
 plus a page with instructions and a scoring guide.
 
-We always aim to have two interviewers in each session, if possible - one
+We always aim to have two interviewers in each session, if possible -- one
 primary and one observer. The observer will mostly just be observing, but if
 there's something they really want to say, or if the candidate wants to ask
 them a question, that's ok. Interviewers should generally observe at least a
@@ -369,7 +370,7 @@ walking through it if they like:
 > asked you to explain some concept to them."
 
 If possible, we find it very valuable to have the hiring manager personally
-conduct all of the Verbal Communication interview sections. While we do have a
+conduct all of the Verbal Communication interview sessions. While we do have a
 scoring rubric that aims to be as objective as possible, this session has a
 higher degree of subjectivity than most. Having one person conduct all the
 interviews helps to create a more consistent set of evaluations across
@@ -381,24 +382,23 @@ To make the final selection, the hiring manager schedules a meeting with the
 recruiters, any interviewers who are interested in attending, and any other
 parties we feel should be involved.
 
-Ahead of time, they prepare a spreadsheet
-of the candidates in a suggested stacked rank order, including summaries of
-their feedback at each step and any additional comments or observations that
-seem relevant. Generally, the ordering should follow the scoring from the
-interviews, but there are reasons why you might choose to deviate from that.
-For example, perhaps a candidate scored well but had behavioral red flags, or
-perhaps they didn't score quite as well as another candidate, but had relevant
-non-programming job experience that the other candidate lacked and were thus
-ranked higher.
+Ahead of time, they prepare a spreadsheet of the candidates in a suggested
+stacked rank order, including summaries of their feedback at each step and any
+additional comments or observations that seem relevant. Generally, the ordering
+should follow the scoring from the interviews, but there are reasons why you
+might choose to deviate from that.  For example, perhaps a candidate scored well
+but had behavioral red flags, or perhaps they didn't score quite as well as
+another candidate, but had relevant non-programming job experience that the
+other candidate lacked and were thus ranked higher.
 
-At the meeting, the manager lays out the reasoning for their
-ordering, and asks for feedback or other impressions. Based on feedback, they
-adjust the ordering as appropriate. At the end of the meeting, the selection is
-fixed, and the top candidates are informed that they have been accepted to the
-program. If some of them end up accepting other offers or are otherwise no
-longer available, we'll reach out to the next person on the list. Once we have
-enough accepted offers to fill out a cohort, then we inform the other finalists
-that, though it was a close decision, they have not been selected.
+At the meeting, the manager lays out the reasoning for their ordering, and asks
+for feedback or other impressions. Based on feedback, they adjust the ordering
+as appropriate. At the end of the meeting, the selection is fixed and the top
+candidates are informed that they have been accepted to the program. If some of
+them end up accepting other offers or are otherwise no longer available, we'll
+reach out to the next person on the list. Once we have enough accepted offers to
+fill out a cohort, then we inform the other finalists that, though it was a
+close decision, they have not been selected.
 
 Even for folks who don't make it into the program, though, that's not
 necessarily the end of our interactions with those candidates. For one thing,
