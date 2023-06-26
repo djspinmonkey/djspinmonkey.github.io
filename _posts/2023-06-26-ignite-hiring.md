@@ -6,7 +6,7 @@ date: 2023-06-26 10:24 -0700
 Companies often severely undervalue early career engineers. Even when a company
 does recognize their value, they may struggle to hire, onboard, and place those
 engineers. You can't just treat them like senior engineers and hope for the
-best! Ignite is New Relic's approach to early career engineering. We hire new
+best! Ignite is New Relic's early career incubator program. We hire new
 engineers into what is usually their first software engineering role, give them
 some extra onboarding and support, set up rotations with various engineering
 teams throughout the company, and then place them on one of those teams as we
