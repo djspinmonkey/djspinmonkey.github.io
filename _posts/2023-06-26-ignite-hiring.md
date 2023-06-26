@@ -3,35 +3,34 @@ layout: post
 title: Running New Relic's Ignite Program, Part 1 - Hiring
 date: 2023-06-26 10:24 -0700
 ---
-Ignite is New Relic's early career engineering incubator program, which hires
-new engineers into what is usually their first software engineering role, gives
-them some extra onboarding and support, sets up rotations with various
-engineering teams throughout the company, and then places them on one of those
-teams as we find a good match. This is the first in a series of articles
-walking through all the details of how it operates, from start to finish. It is
-intended primarily as a resource for those who are running (or planning to run)
-similar programs. Of course, it may also be interesting to folks thinking of
-applying to the program! Each part will cover one of the phases each Ignite
-engineer goes through: hiring, program onboarding, team rotations, team
-placement and onboarding, and follow up. Since this is the first part, we're
-starting at the beginning with hiring.
+Companies often severely undervalue early career engineers. Even when a company
+does recognize their value, they may struggle to hire, onboard, and place those
+engineers. You can't just treat them like senior engineers and hope for the
+best! Ignite is New Relic's approach to early career engineering. We hire new
+engineers into what is usually their first software engineering role, give them
+some extra onboarding and support, set up rotations with various engineering
+teams throughout the company, and then place them on one of those teams as we
+find a good match. This is the first in a series of articles walking through
+each of those steps. It is intended primarily as a resource for those who are
+running (or planning to run) similar programs. Of course, it may also be
+interesting to folks thinking of applying to the program! Since this is the
+first part, we're starting at the beginning with hiring.
 
 Hiring for an early career role is significantly different than hiring for a
 more senior position. For mid- to lead-level roles, the challenge is finding
-qualified candidates. You can do a lot of pre-sorting based on resumes to see
-if they have the needed experience, and you'll likely end up with only a
-handful of folks (at most) that you'd consider bringing in for a final
-interview. The "best of the best" are almost never on the job market, so
-working connections and active recruiting are critical.
+qualified candidates. You can do a lot of filtering based on resumes to see if
+they have the needed experience. After that, you'll likely end up with only a
+handful of folks that you'd consider bringing in for a final interview. The
+"best of the best" are almost never on the job market, so working connections
+and active recruiting are critical.
 
-For early career roles, though, almost everybody looking for an entry level
-role is on the open job market, and there are far, far more candidates coming
-up through universities, code schools, and other backgrounds eager for their
-first engineering job than there are positions to go around. Sifting through
-applications is like drinking from a firehose, and the challenge is processing
-the sheer volume of candidates and narrowing it down to the most promising
-folks. Every time we open a round of hiring for Ignite, the volume of
-applicants goes up -- as of this writing, it's about 100 per day.
+For early career roles, though, almost everybody is on the open job market.
+There are far, far more candidates eager for their first engineering job than
+there are positions to go around. Sifting through applications is like drinking
+from a firehose, and the challenge is processing the sheer volume of candidates
+and narrowing it down to the most promising folks. Every time we open a round
+of hiring for Ignite, the volume of applicants goes up -- as of this writing,
+it's about 100 per day.
 
 ## Before You Start
 
