@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Running New Relic's Ignite Program, Part 1 - Hiring
+date: 2023-06-26 10:24 -0700
 ---
-
 Ignite is New Relic's early career engineering incubator program, which hires
 new engineers into what is usually their first software engineering role, gives
 them some extra onboarding and support, sets up rotations with various
