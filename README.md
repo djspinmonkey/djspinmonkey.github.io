@@ -2,13 +2,19 @@
 
 ## Setup
 
-Install gems with `bundle install` 
+Install gems with `bundle install`
 
-To run the site locally, us `jekyll serve` and visit `127.0.0.1:4000`. There are a few different command-line options you can pass, depending on what you want. Use `--livereload` to automatically reload the site when changes are detected, and `--drafts` to include posts in the `_drafts` folder as well.
+To run the site locally, us `jekyll serve` and visit `127.0.0.1:4000`. There
+are a few different command-line options you can pass, depending on what you
+want. Use `--livereload` to automatically reload the site when changes are
+detected, and `--drafts` to include posts in the `_drafts` folder as well.
 
 ## Posting
 
-There's a CLI to create posts and drafts. The `NAME` will be used as the file-name, which is also used as the URL slug. It's added as the title of the post in the metadata, which you can edit. The URL won't change unless you change the filename. 
+There's a CLI to create posts and drafts. The `NAME` will be used as the
+file-name, which is also used as the URL slug. It's added as the title of the
+post in the metadata, which you can edit. The URL won't change unless you
+change the filename.
 
 | Command          | Description                                                 |
 | ---------------- | ----------------------------------------------------------- |
@@ -18,7 +24,7 @@ There's a CLI to create posts and drafts. The `NAME` will be used as the file-na
 | unpublish PATH   | Moves a post back into the `_drafts` directory              |
 | page NAME        | Creates a new page in sidebar with the given NAME           |
 | rename PATH NAME | Moves a file to a given NAME and sets the title and date    |
-  
+
 ## Plugins
 
 `jekyll-paginate` for a paginated main page
@@ -27,6 +33,4 @@ There's a CLI to create posts and drafts. The `NAME` will be used as the file-na
 
 `jekyll-compose` provides cli for post/publish workflow
 
-`jemoji` to add github/slack style emoji syntax 
-
-
+`jemoji` to add github/slack style emoji syntax
