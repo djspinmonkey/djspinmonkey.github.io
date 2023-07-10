@@ -64,22 +64,22 @@ people in the right interviews, and so on.
 
 ### Set Up an Interview Panel
 
-Speaking of interviews, since there's no specific existing team being hired
-into with a program like this, there's no automatic group of folks to do the
-interviewing. For each round of Ignite hiring, we set up a group of engineers
-and managers to both evaluate take-home exercises and conduct in-person
-interviews. You could call for volunteers, draw from the teams being considered
-for placement, hand-pick a specific panel, or otherwise handle this in whatever
-way seems best for your organization. Make sure you have all the necessary
-skills represented in your panel (see below for the various sorts of interview
-sessions we conduct). Once you have your full set of interviewers, it's good to
-let them know about how many interviews they should expect, over what period of
-time. We usually aimed for about 3 interviews per person plus 1 training
-session, over a period of around 3 weeks, so the burden on any individual was
-fairly light. It'll depend on how many applicants you have and how many
-interviewers for each type of interview session, though. You can start doing
-this around the time the position becomes available for applications -- it'll
-take a little time for candidates to get to the interview phase.
+Speaking of interviews, since engineers aren't being hired into a specific
+existing team with a program like this, there's no automatic group of folks to
+do the interviewing. For each round of Ignite hiring, we set up a group of
+engineers and managers to both evaluate take-home exercises and conduct
+in-person interviews. You could call for volunteers, draw from the teams being
+considered for placement, hand-pick a specific panel, or otherwise handle this
+in whatever way seems best for your organization. Make sure you have all the
+necessary skills represented in your panel (see below for the various sorts of
+interview sessions we conduct). Once you have your full set of interviewers,
+it's good to let them know about how many interviews they should expect, over
+what period of time. We usually aimed for about 3 interviews per person plus 1
+training session, over a period of around 3 weeks, so the burden on any
+individual was fairly light. It'll depend on how many applicants you have and
+how many interviewers for each type of interview session, though. You can start
+doing this around the time the position becomes available for applications --
+it'll take a little time for candidates to get to the interview phase.
 
 ## The Hiring Process
 
@@ -164,7 +164,7 @@ short answer question.
 
 #### Resume
 
-In the Ignite program, candidates were usually applying for their first
+In the Ignite program, candidates were often applying for their first
 engineering job, and we were specifically looking for candidates from diverse
 backgrounds. As such, we didn't weigh resumes as highly for Ignite positions as
 we might have for more senior roles. That said, there were a few things that
@@ -211,17 +211,17 @@ In particular, the directions asked for tradeoffs, so we wanted to see at least
 one tradeoff described. An application that did not include any tradeoffs was
 unlikely to proceed. A tradeoff should have at least two plausible choices with
 pluses and minuses on both sides. "We didn't have time for everything, so we
-focused on X" is not a tradeoff, because having infinite time is not an option.
-"We only had time to implement either feature X or feature Y. We went with X
-because [reasons]" is an ok tradeoff description, but not great. A great
-description of a tradeoff might look something like this: "We had to choose
-option X or option Y. X is better at [things], but Y is better for [other
-things]. [Something] was the most important consideration for us, because
-[reasons], so we went with X." This could be about architectural styles,
-libraries, databases, or any other decision that had multiple reasonable
-options that the candidate had to choose between. Experienced engineers are
-almost always thinking about tradeoffs like this as they design and build their
-systems.
+focused on X" is not a tradeoff at all, because only one possibility is
+mentioned (having infinite time is not an option).  "We only had time to
+implement either feature X or feature Y. We went with X because [reasons]" is a
+mediocre tradeoff description, but not great. A great description of a tradeoff
+might look something like this: "We had to choose option X or option Y. X is
+better at [things], but Y is better for [other things]. [Something] was the
+most important consideration for us, because [reasons], so we went with X."
+This could be about architectural styles, libraries, databases, or any other
+decision that had multiple reasonable options that the candidate had to choose
+between. Experienced engineers are almost always thinking about tradeoffs like
+this as they design and build their systems.
 
 ### Hiring Manager Screen
 
@@ -235,7 +235,7 @@ literal solution to the exercise).
 
 If a candidate was not able to complete the technical screen, or if there were
 any behavioral red flags, we explained to them why they would not be continuing
-through the interview process and thanked them for their time.
+to the next step and thanked them for their time.
 
 If a candidate successfully completed the exercise and would be continuing,
 then we walked through what the rest of the interview process would look like
@@ -258,7 +258,7 @@ progressively more challenging, and what we found over the years is that if a
 candidate struggled at this step, those struggles would increase going forward.
 It is not a kindness to put somebody in a position where they will not be
 successful, so I recommend being clear about what is required to advance and
-firm in those requirements.
+remaining firm in those requirements.
 
 ### Take-Home Exercise
 
@@ -346,11 +346,11 @@ they were mostly fairly typical of this style of interview.
 We provided the full text of the questions to all candidates - in fact, they
 were published on our website. To some extent, like many of our practices, this
 was to mitigate the stress of interviewing. However, we also found that this
-provided a better hiring signal for any given candidate. Typically, folks have
-a handful of stories they always tell in response to these kinds of questions,
+practice provided a significantly better hiring signal. Typically, folks have a
+handful of stories they always tell in response to these kinds of questions,
 and the third or fourth time they tell that story is always more polished than
 the first. We don't want to select for whether they happen to have already been
-asked a similar question in the past, and we don't want to know about just
+asked a similar question in the past. We also don't want to know about just
 whatever example they could come up with in the heat of the moment. We want to
 know their best example of a given behavior, described as well as they can
 describe it, and publishing the questions ahead of time helped us achieve that.
@@ -394,9 +394,9 @@ stacked rank order, including summaries of their feedback at each step and any
 additional comments or observations that seem relevant. Generally, the ordering
 followed the scoring from the interviews, but there were occasionally reasons
 why I might choose to deviate from that. For example, perhaps a candidate
-scored well but had behavioral red flags, or perhaps they didn't score quite as
-well as another candidate, but had relevant non-programming job experience that
-the other candidate lacked and were thus ranked higher.
+scored well but there were behavioral concerns, or perhaps they didn't score
+quite as well as another candidate, but they had relevant non-programming job
+experience that the other candidate lacked.
 
 At the selection meeting, I laid out the reasoning for the initial ordering,
 and asked for feedback or other impressions. Based on feedback, I would then
