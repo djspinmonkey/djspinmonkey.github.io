@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Running New Relic's Ignite Program, Part 1 - Hiring
-date: 2023-06-26 10:24 -0700
+date: 2023-07-10 10:24 -0700
 ---
 This is part 1 of a series of blog posts about New Relic's Ignite program,
 which I designed and ran for about five years. Ignite was an incubator team for
