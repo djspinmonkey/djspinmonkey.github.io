@@ -75,7 +75,7 @@ Since we couldn't do full rotations with every team (there were many dozens by t
 
   * Teams in parts of the company that didn't have any rotations scheduled
   * Teams that owned particularly interesting products or systems
-  * Teams that owned fundamental central tooling or infrastructure that engineers were likely to need to interact with
+  * Teams that owned fundamental central tooling or infrastructure that engineers were likely to interact with
   * Teams that somebody in the Ignite program had expressed a specific interest in
 
 Once we transitioned the program to being fully remote during covid, we switched to doing online social events with our hosting team. Since we weren't able to just go out to lunch or have similar informal social gatherings, it was important to intentionally create those opportunities for non-work-related conversations and socializing.
@@ -100,7 +100,7 @@ I kept a running list of topics I thought would be valuable for new engineers to
 
 ### Administrative Tasks and Scheduling
 
-Here's the list of tasks I used to keep everything on track. For me, it worked well to make these repeating tasks in my todo app. We were working with different teams week to week, and wanted to cause as little disruption as possible, so we generally conformed to the existing team schedules. That meant many repeating Ignite-specific events generally needed to be scheduled manually each week, rather than being repeating calendar items, in order to avoid schedule conflicts.
+Here's the list of tasks I used to keep everything on track. For me, it worked well to make these repeating tasks in my todo app. We were working with different teams week to week, and wanted to cause as little disruption as possible, so we generally conformed to the existing team schedules. That meant many repeating Ignite-specific events needed to be scheduled manually each week, rather than being repeating calendar items, in order to avoid schedule conflicts.
 
 #### Every Day
 
@@ -128,7 +128,7 @@ Here's the list of tasks I used to keep everything on track. For me, it worked w
 
   * Schedule an onboarding period with related activities and presentations.
   * Schedule an Ignite Alumni Social Hour.
-  * Check in with engineering leadership for a list of teams to either avoid or try to include in the upcomind rotation schedule.
+  * Check in with engineering leadership for a list of teams to either avoid or try to include in the upcoming rotation schedule.
 
 Of course, since there was always a hiring cycle going at the same time as the rotations, I would also be reviewing applications, evaluating code submissions, conducting screens and interviews, training and coordinating interviewers, reviewing candidate feedback, and all the other regular duties of a hiring manager, as well. Part 1 of this series has more details on everything involved with hiring.
 
