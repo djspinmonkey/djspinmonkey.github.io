@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Running New Relic's Ignite Program, Part 2 - Onboarding and Rotations
+date: 2023-07-25 15:22 -0700
 ---
-
 This is part 2 of a series on running New Relic's Ignite program. First, I'll go over the onboarding process for new hires. Then, I'll describe how we ran the various team rotations and activities that comprised the bulk of an engineer's time in the program. If you haven't read [Part 1, about hiring](https://djspinmonkey.github.io/2023/07/10/ignite-hiring/), you may want to start there. This article will be somewhat less broadly applicable than the post on hiring, but some of this material could still be applied generally.
 
 ## Onboarding Phase
