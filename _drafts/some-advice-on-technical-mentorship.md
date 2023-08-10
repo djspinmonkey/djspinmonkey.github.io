@@ -3,17 +3,15 @@ layout: post
 title: Some Advice On Technical Mentorship
 ---
 
-During my time as a director at New Relic, I founded the company's internal mentorship program and ran it for about three years. Before that, I benefited from many mentorships, myself, on both sides of the relationship. Mentorship is one of the best ways somebody can improve their own skills - as the mentor _or_ the mentee! - and also helps raise the skills of those around you. An effective mentorship program is an invaluable way for an engineering organization to improve its bench strength and build a sense of community.
+During my time as a director at New Relic, I founded the company's internal mentorship program and ran it for about three years. Before that, I benefited from many mentorships, myself, on both sides of the relationship. Mentorship is one of the best ways you can improve your own skills - as the mentor _or_ the mentee! - and also helps raise the skills of those around you. An effective mentorship program is an invaluable way for an engineering organization to improve its bench strength and build a sense of community.
 
 Over the years, I've accumulated various pieces of mentorship advice, as well as developing my own ideas on the topic. I'm afraid I don't have attribution for all the individual points mentioned below, but please consider this a curated collection of mentorship advice, rather than a fully independent invention.
+
+Also, don't feel bound by anything in this article. In my experience, every mentorship relationship is different, so you may choose to go a different way and that's fine. Decide together with your mentor or mentee what will work best for the two of you.
 
 ## What Is Mentorship?
 
 There are many valid ways to look at mentorship, and many different things people might be looking to get out of it. When I think of mentorship, I usually think of somebody who has experience with a certain skillset, somebody else who has less experience with that skillset, and the two of them working together to develop their skills. I don't see mentorship as having a "teacher" and a "student" - both people will probably learn a lot by working together. Also, job titles or overall seniority shouldn't determine who is the "mentor" or the "mentee", but rather their respective levels of experience in the specific skills being explored. A great mentorship is a collaboration between two people, and should involve mutual respect and a recognition that you're both there to learn and improve your skills together.
-
-## These Are Not Rules
-
-Don't feel bound by anything in this article. In my experience, every mentorship relationship is different, so you may choose to go a different way and that's fine. Decide together with your mentor or mentee what will work best for the two of you.
 
 ## Mentorship Tips
 

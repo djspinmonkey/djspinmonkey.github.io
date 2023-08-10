@@ -18,33 +18,39 @@ This process is probably going to be very specific to each company, and may be s
   * Assign teams headcount that is specifically earmarked for folks who have come through your program.
   * Keep a separate headcount budget for engineers coming through your program, and transfer some of that budget to an engineer's new team as they're placed.
 
-The last option takes the most special handling, but has a lot of advantages if you're able to arrange it. By deferring the choice of which teams to place the engineers on, you allow the company to react to changing needs and circumstances, and you also allow the new engineers to explore different possibilities and discover what they're most excited to work on.  In order to maintain some control of headcount allocation, it can be helpful to coordinate your rotation schedule with leadership, so that you're working with the teams they'd most like to see receiving new engineers, but there's a big upside to letting a little bit of that control go. The more flexibility you're able to maintain for placements, the higher the likelihood of finding a great team fit, which ultimately leads to stronger, more motivated teams and engineers doing work they love.
+The last option takes the most special handling, but has a lot of advantages if you're able to arrange it. By deferring the choice of which teams to place the engineers on, you allow the company to react to changing needs and circumstances, and you also allow the new engineers to explore different possibilities and discover what they're most excited to work on. In order to maintain some control of headcount allocation, it can be helpful to coordinate your rotation schedule with leadership, so that you're working with the teams they'd most like to see receiving new engineers, but there's a big upside to letting a little bit of that control go. The more flexibility you're able to maintain for placements, the higher the likelihood of finding a great team fit, which ultimately leads to stronger, more motivated teams and engineers doing work they love.
+
+Another great feature of the "separate headcount" approach is the way it changes the dynamic between the engineers and their new managers. If you're just hoping to find open positions, that will often mean a manager has to decide between hiring a mid (or even senior) level engineer versus accepting an entry level engineer from your program. Some folks will be willing to do that, especially after the caliber of the engineers coming through becomes clear, but it can be a big ask before you've established a proven track record. On the other hand, even though at a high level the budgeting works out the same, offering an Ignite engineer as "extra" feels very different for a manager. Now you're bringing them a much needed resource, and they are thrilled their team was fortunate enough to receive this wonderful new engineer! Good feelings abound, and everybody is happy about how things have worked out.
 
 However you decide to coordinate your budgets, make sure you have all the details worked out with Engineering leadership, Finance, and HR in the design phase of your program, well before anything is actually up and running. It's important that everybody is on board with the plan for budgeting before you're actually hiring people.
 
 ### Cadence
 
-There are two options I've tried for the timing of hiring and placement cycles.
+There are many options for how the timing of hires and placement could work, and to some extent it will depend on how you handle the budgeting. This was one of the major areas of experimentation over the years for Ignite, and while any of these can be made to work, some make it easier than others.
 
 #### Fixed Cohorts
 
-At first, Ignite had fixed duration cohorts. Everybody in a cohort was hired on the same day, and then at the end, they were all placed on teams on the same day. This was... ok. We made it work, and people generally ended up on teams that they were relatively happy with. However, it was a fairly stressful experience for everybody involved as the big day approached. Engineers were worried about what would happen if they didn't find a team in time, and it was a lot of frantic running around and trying to line things up on my part. We missed out on some great placements just because the timing didn't match up.
+At first, Ignite had fixed duration cohorts. Everybody in a cohort was hired on the same day, and then at the end, they were all placed on teams on the same day. This was... ok. People generally ended up on teams that they were relatively happy with, but it was a stressful experience for everybody involved as the big day approached. Engineers were worried about what would happen if they didn't find a team in time, and it was a lot of frantic running around and trying to line things up on my part. We missed out on some great placements just because the timing didn't match up.
 
 We also found that there wasn't any single "right" amount of time for an engineer to be in the program. We tried ranges from two to six months. At the short end, there were people who felt rushed and ended up settling for a "good enough" team. At the long end, sometimes folks _would_ find that perfect team, but then had to wait months before they could actually join, which also felt bad.
 
 That said, there were advantages. By knowing when a given group would be wrapped up, we could be very intentional about scheduling time to retrospect and iterate on the program. We could also keep the hiring phase and the rotation phase separate, which was helpful early on. With more experience, it wasn't a problem to do both at once, but it would have been a challenge initially.
 
-If I were going to take a similar approach again today, I would have a fixed start point for a group, but be flexible about the timing of placements for each individual. This would probably make the scheduling a little trickier and less tidy, though, which would mitigate the benefits. Ultimately, I found the "Hiring Pool" approach a better choice overall.
+#### Flexible Cohorts
+
+I didn't try this approach, personally, but you could keep the hiring and rotation phases separate while avoiding the stressful fire drill at the end of a fixed cohort by introducing some flexibility into placement dates. In this model, you might decide to hire a group every four months, and allow ASEs to stay in the program anywhere from two to three months. That would give you one month guaranteed between cohorts, which is about how long it takes to run a full hiring cycle. It would also give you a fixed time to reflect and iterate on the program's structure and processes.
+
+This might be a good tactic to use at first, to help ease an organization into a new early career hiring program. Eventually, though, I would still recommend moving to a hiring pool if your volume supports it.
 
 #### Hiring Pool
 
-Eventually, Ignite moved to a continuous "pool" model. We had a regular quarterly hiring cadence, where we would hire three  to five engineers at a time. Engineers could stay in the program anywhere from two to six months. There were outliers at either end, but most folks opted to join a team around the three month mark. Consequently, the number of people in the program at any given time varied, but was usually similar to the size of the quarterly hiring group.
+Ultimately, Ignite moved to a continuous "pool" model. We had a regular quarterly hiring cadence, where we would hire three to five engineers at a time. Engineers could stay in the program anywhere from two to six months, which meant cohorts would usually overlap fluidly. There were outliers at either end, but most folks opted to join a team around the three month mark. Consequently, the number of people in the program at any given time varied, but was usually similar to the size of the quarterly hiring group. There were almost always engineers available for placement with this model, and the more experienced members could help the new folks.
 
 In combination with the flexible budgeting mentioned earlier, this gave us the best possible results for finding perfect team fits. It did make some aspects less predictable, but that didn't end up causing any problems in practice. For early career engineering hiring, this is the approach I would recommend.
 
 One concern I could imagine being raised about this model is expense. Engineers cost a lot of money, and you wouldn't want to potentially hire and pay somebody for six months before they started contributing. That's part of why Ignite always worked on real tickets and projects, doing actual work that teams were generally very excited to see getting done. That also happens to be the best way to learn engineering and see what it would be like to work on a team! So, while you could look at this period as an investment in the company's future engineering bench strength, Ignite engineers were also contributing real value as soon as they were through the initial onboarding, just like any other engineer.
 
-As a side note, the trade-offs work out a bit differently for more senior levels. When we applied this model to hiring to those roles, we found that those engineers didn't get the same benefits from going through more teams. They usually already know what kind of engineering they want to do, and have seen different team processes and workflows. We still did a few rotations, since it was valuable to meet prospective team mates and get a bit of hands-on experience with related systems, but it was fixed at three rotations.
+As a side note, the trade-offs work out a bit differently for more senior levels. When we applied the Ignite model of hiring to those roles, we found that those engineers didn't get the same benefits from going through more teams. They usually already know what kind of engineering they want to do, and have seen different team processes and workflows. We still did a few rotations, since it was valuable to meet prospective team mates and get a bit of hands-on experience with related systems, but it was fixed at three rotations.
 
 ## Assigning Technical Specialist Mentors
 
@@ -70,7 +76,7 @@ Halfway through the onboarding period, I would check in with the manager and the
 
 ## After Placement
 
-At the end of the onboarding phase, we officially placed the Associate Software Engineer on their new long term team! But the work was not done yet.
+At the end of the onboarding phase, we officially placed the Associate Software Engineer on their new long term team! They were now ready to continue with their career in the company, but our work in the program was not done yet.
 
 ### Handoff
 
@@ -94,13 +100,12 @@ Depending on when in the review cycle the engineer transferred to their new team
 
 From time to time, it was important to review feedback, consult all the notes I'd been taking, and revise and iterate on the program. It would never be perfect, and even if it were, as circumstances and people changed over time, there would still be changes to be made. I liked to do this on a roughly quarterly basis, and would think about questions like these:
 
-  * What went poorly?
-  * What went well?
-  * Why did those things go well or poorly?
-  * Of course, how can you improve or prevent the things that went poorly?
-  * Are there lessons from things that went well that could be applied elsewhere?
-  * Similarly, do the things that went poorly hint at any other pitfalls you haven't run into yet?
-  * What underlying principles or systems have been illuminated by all this?
+  * What went poorly? Why?
+  * Of course, how can you improve those situations next time?
+  * Do they hint at any other pitfalls you haven't run into yet?
+  * What went well? Why?
+  * Are there lessons from those things that could be applied elsewhere?
+  * What underlying principles or systems have been suggested by all this?
   * What experiments are worth trying going forward?
 
 This article is about how we ran the Ignite program, of course, but this process of ongoing reflection and iteration is broadly applicable to most human endeavors.
