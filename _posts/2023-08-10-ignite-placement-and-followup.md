@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Running New Relic's Ignite Program, Part 3 - Placement and Followup
+date: 2023-08-10 14:27 -0700
 ---
-
 This is the third and final post in a series on running New Relic's Ignite program. In this article, I'll be covering the final steps of an engineer's journey through the program and discussing some of the organizational aspects of a program like this. If you aren't already familiar with Ignite, you may want to start with [Part 1, about hiring](https://djspinmonkey.github.io/2023/07/10/ignite-hiring/) or [Part 2, about onboarding and rotations](https://djspinmonkey.github.io/2023/07/25/ignite-onboarding-and-rotations/).
 
 ## Placement
