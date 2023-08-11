@@ -427,3 +427,7 @@ particular day for that particular interview. It can be difficult to make such
 significant decisions based on this. However, hiring decisions must be made one
 way or another, and judging based on criteria that are as fair, objective, and
 rigorous as we know how to make them is the best way I've found to do it.
+
+## What's Next?
+
+In the second article in this series, [Part 2 - Onboarding and Rotations](https://djspinmonkey.github.io/2023/07/25/ignite-onboarding-and-rotations/), I'll go over how we handled onboarding a new ASE and discuss everything that went into running the bulk of an engineer's time in the programming.

@@ -135,4 +135,4 @@ Here's the list of tasks I used to keep everything on track. For me, it worked w
 
 ## What's Next?
 
-In the next and final post in this series, I'll discuss how we handled team placements, the process of transitioning from Ignite onto a long term team, and the followup steps that came afterward.
+In the final post in this series, [Part 3 - Placement and Followup](https://djspinmonkey.github.io/2023/08/10/ignite-placement-and-followup/) I'll discuss logistical considerations such as budgeting and scheduling for team placements, the process of transitioning from Ignite onto a long term team, and the followup steps that came afterward.
