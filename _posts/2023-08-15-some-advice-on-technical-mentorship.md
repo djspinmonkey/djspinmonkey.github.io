@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Some Advice On Technical Mentorship
+date: 2023-08-15 10:25 -0700
 ---
-
 During my time as a director at New Relic, I founded the company's internal mentorship program and ran it for about three years. Before that, I benefited from many mentorships, myself, on both sides of the relationship. Mentorship is one of the best ways you can improve your own skills - as the mentor _or_ the mentee! - and also helps raise the skills of those around you. An effective mentorship program is an invaluable way for an engineering organization to improve its bench strength and build a sense of community.
 
 Over the years, I've accumulated various pieces of mentorship advice, as well as developing my own ideas on the topic. I'm afraid I don't have attribution for all the individual points mentioned below, but please consider this a curated collection of mentorship advice, rather than a fully independent invention.
